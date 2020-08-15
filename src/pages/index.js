@@ -9,7 +9,7 @@ import gatsbyAstronaut from "../images/gatsby-astronaut.png"
 export default () => (
   <Layout>
     <SEO title="Welcome to out Site!" /> 
-    <h1> Hello world!</h1>
+    <h1> Welcome</h1>
     <img src={gatsbyAstronaut} 
          alt="A Gatsby Astronaut" 
          style={{ width: `200px`}}
